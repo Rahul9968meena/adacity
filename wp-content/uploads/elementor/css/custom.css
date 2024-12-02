@@ -1,0 +1,158 @@
+.Collabration {
+    padding: 0px 15px;
+}
+
+.recent-collab {
+    max-width: 1400px !important;
+    margin-top: 50px;
+
+}
+
+.elementor-2803 .elementor-element.elementor-element-5dbfd0c>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 0px 0px 0px 100px;
+    --e-column-margin-right: 100px;
+    --e-column-margin-left: 100px;
+    padding: 50px 0px 50px 0px;
+}
+
+
+.sub-menu {
+    min-width: 290px !important;
+}
+
+.element-collab {
+    max-width: fit-content;
+    margin: auto;
+    padding: 0px 25px;
+}
+
+.swiper-slide img {
+    border-radius: 25px;
+}
+
+
+/* cards  */
+/* From Uiverse.io by alexmaracinaru */
+.card {
+    width: 400px;
+    height: 370px;
+    /* background: #3405a3; */
+    border-radius: 15px;
+    /* box-shadow: 1px 5px 60px 0px #100a886b; */
+}
+
+.card .card-border-top {
+    /* width: 60%; */
+    height: 3%;
+    /* background: #6b64f3; */
+    margin: auto;
+    border-radius: 0px 0px 15px 15px;
+}
+
+.card span {
+    font-weight: 600;
+    color: white;
+    text-align: center;
+    display: block;
+    padding-top: 10px;
+    margin-top: 10px;
+    font-size: 22px;
+}
+
+.card .job {
+    font-weight: 400;
+    color: #ffffff;
+    display: block;
+    text-align: center;
+    padding-top: 3px;
+    margin-top: 8px;
+    margin-bottom: 10px;
+    font-size: 18px;
+
+}
+
+.card .img {
+    width: 135px;
+    height: 135px;
+    /* background: #6b64f3; */
+    border-radius: 15px;
+    margin: auto;
+    margin-top: 15px;
+}
+
+.card .button {
+    padding: 8px 25px;
+    display: block;
+    margin: auto;
+    border-radius: 8px;
+    border: none;
+    margin-top: 30px;
+    background: #6b64f3;
+    color: white;
+    font-weight: 600;
+}
+
+.card .button:hover {
+    background: #534bf3;
+}
+
+.testimonial-slider {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+}
+
+
+.insta {
+    font-size: 50px;
+    /* margin-top: 10px; */
+}
+
+
+.elementor-8 .elementor-element.elementor-element-d7846a2 .jeg-elementor-kit.jkit-testimonials .testimonials-track .testimonial-item .testimonial-box {
+    text-align: center;
+    margin: 10px 15px 80px 15px !important;
+    padding: 15px 40px 15px 40px !important;
+    border-radius: 25px 25px 25px 25px;
+}
+
+
+.elementor-8 .elementor-element.elementor-element-429a67c>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin: 0px 0px 0px 0px !important;
+    --e-column-margin-right: 100px;
+    --e-column-margin-left: 100px;
+    padding: 50px 0px 50px 0px;
+}
+
+
+.Adacity {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+}
+
+.AdaCity {
+    color: #4A1FFF !important;
+}
+
+.Media {
+    color: white !important;
+}
+
+.media {
+    color: #4A1FFF !important;
+}
+
+.elementor-20 .elementor-element.elementor-element-6f5d6a01 {
+    border-style: solid;
+    border-width: 0px 0px 1px 0px;
+    border-color: var(--e-global-color-659f957);
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    padding: 5px 0px 5px 0px !important;
+}
